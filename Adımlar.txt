@@ -1,0 +1,19 @@
+Api Testi ve Swagger
+swagger: api test toolu postmanden daha basýc crud bazlý iþlem testi gerçekleþtirmemi saðlýyor
+Tema Eklemesi 
+
+Register Ve Login iþlemleri yapýlacak 
+Ana sayfadaki Hakkýmýzda kýsmýnda Müþteri sayýsý Personel sayýsý Oda sayýsý ilgili tablolardan çekilen dinamik bir yapý da olacak bunun içinde veri tabanýndan  trigger yazýlmasý gerekiyor
+
+frontend controllerda nesne neden oluþturuyoruz
+builder.Services.AddScoped<IServicesDal, EfServiceDal>();
+builder.Services.AddScoped<IServicesServices,ServiceMenager>();
+bunlarýn arasýndaki baðlantý nedir
+web api nedir neden kullanýlýr
+tekrardan neden dto sýnýfý yapýyoruz uý da
+validationa dön
+viewmodel ile dto arasýndaki fark nedir
+email gönderme iþlemini taþýmam gerek
+dasword Sayfasý Düzenlenecek 
+dosya iþlemleri 
+viewbag düzeltilecek
